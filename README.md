@@ -32,13 +32,6 @@
   
 ---------------------------------------------------------
 
-+ NEW! Firmware !!!  SOON!! SOON!! 
-+ Bitmain Antminer E9 3GH/s https://tinyurl.com/y6fw92w2
-+ 265% another speed increase (32x RTX-3080)
-+ Antminer E9 ASIC-Bitcoin-privatekey-Miner !
-+ Tutorial PDF & SETTING UP Included in .ZIP file
-
----------------------------------------------------------
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
 Typical hacking methods are key enumeration (LBC https://lbc.cryptoguru.org/about) and dictionary attack / brain wallets (https://eli5.eu/brainwallet/).
