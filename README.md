@@ -20,15 +20,19 @@
 + Update 2.
 + NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
 + We only sell this file to 100 people. So far, we know 100 people who have.
-+ + 24% another speed increase 
++ 24% another speed increase 
 + ASIC-Bitcoin-privatekey-Miner
 + Tutorial PDF & SETTING UP Included in .ZIP file
-
 + The sale is complete
 ---------------------------------------------------------
  
 + Update 3.
-+ NEW! Firmware (2021 Junius ) SOON ! S9, T9, S17, T19 to S19 S19Pro
++ NEW! Firmware (2021 Junius ) S9, T9, S17, T19 to S19 S19Pro
++ https://satoshidisk.com/pay/CChLXG
++ We only sell this file to 100 people. So far, we know 12 people who have.
++ 11% another speed increase 
++ ASIC-Bitcoin-privatekey-Miner
++ Tutorial PDF & SETTING UP Included in .ZIP file
   
 ---------------------------------------------------------
 
